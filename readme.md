@@ -18,3 +18,8 @@ This repository will contain the files that I create(d) along the way.
 This first chapter starts off rather easily with an explanation of how 
 JavaScript can be inserted into a website. In the folder [01.Hello_World](01.Hello_World) 
 you can find my take on the tasks presented in this chapter.
+
+
+## 02. Code structure
+
+No real assignment in this chapter, just some information on code structure.
