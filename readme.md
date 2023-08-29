@@ -32,3 +32,9 @@ It's actually the first time I lear about "use strict" to be honest.
 I can't remember hearing about it in the frontend lessons I had.
 I checked the learning materials and was unable to find it at this point.
 No assignment in this chapter.
+
+
+## 04. Variables
+
+I got some useful information about variables. How to declare them, when to use
+which one.
