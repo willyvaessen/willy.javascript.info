@@ -38,3 +38,9 @@ No assignment in this chapter.
 
 I got some useful information about variables. How to declare them, when to use
 which one.
+
+
+## 05. Data types
+
+There are eight basic data types in JavaScript that are discussed in this chapter.
+
