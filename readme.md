@@ -44,3 +44,10 @@ which one.
 
 There are eight basic data types in JavaScript that are discussed in this chapter.
 
+
+## 06. Interaction
+
+There are a few built-in ways to interact with the user, through the browser 
+window. 
+They are explained in this chapter.
+
