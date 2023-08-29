@@ -51,3 +51,11 @@ There are a few built-in ways to interact with the user, through the browser
 window. 
 They are explained in this chapter.
 
+
+## 07. Type Conversions
+
+Usually operators and functions automatically assign the correct data type to 
+a value. 
+Alert, for example, converts any value to a string to show it and mathematical 
+operations convert values to numbers.
+
