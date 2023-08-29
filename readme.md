@@ -59,3 +59,6 @@ a value.
 Alert, for example, converts any value to a string to show it and mathematical 
 operations convert values to numbers.
 
+## 08. Basic operators, maths
+
+This chapter is about some basic operators use din JavaScript.
